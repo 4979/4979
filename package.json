@@ -1,0 +1,24 @@
+{
+  "name": "4979",
+  "version": "1.0.0",
+  "description": "home page of Prabhat Kumar",
+  "keywords": [
+    "Technical Architect",
+    "Project Manager",
+    "Data Scientist"
+  ],
+  "homepage": "http://prabhatkumar.org/",
+  "author": {
+    "name": "Prabhat Kumar",
+    "url": "http://prabhatkumar.org/",
+    "github":"https://github.com/4979"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/4979/4979.git"
+  },
+  "dependencies": {
+    "php": "5.0"
+  },
+  "license": "Apache"
+}
