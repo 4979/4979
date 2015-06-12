@@ -1,2 +1,4 @@
 #! http://humanstxt.org/
 User-agent: *
+User-agent: Googlebot
+User-agent: Googlebot-Mobile
