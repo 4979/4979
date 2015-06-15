@@ -1,1 +1,4 @@
 # robots.txt file for 4979
+User-agent: *
+User-agent: Googlebot
+User-agent: Googlebot-Mobile
